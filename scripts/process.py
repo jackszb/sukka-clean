@@ -2,7 +2,7 @@ import requests
 import json
 
 URLS = [
-    ("https://raw.githubusercontent.com/jackszb/sukka-json/main/domainset/reject.json", "reject-I.json"),
+    ("https://raw.githubusercontent.com/jackszb/pure-sukka-rules/main/reject_rules.json", "reject-I.json"),
     ("https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/reject.json", "reject-II.json"),
 ]
 
